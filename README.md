@@ -2,4 +2,4 @@
 My first repository
 
 Hello Guys!
-I'm thrilled because I'm abuot to gain a noble skill of programing!
+I'm thrilled because I'm about to gain a noble skill of programing!
